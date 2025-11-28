@@ -47,4 +47,4 @@ pip install -r requirements.txt
 
 ## How it works
 
-![alt text](https://github.com/avicenteg/euraxess_scraping/blob/master/images/schema.png "Application Schema")
+![alt text](/images/schema.png "Application Schema")
